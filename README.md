@@ -5,6 +5,8 @@
 
 
 #### A simulated shopping center website based on Django and customized MySQl codes.
+<br><br>
+![ER](https://github.com/hamidzehtab/DB_Project/blob/main/relational_table_version_final.png)
 
 #### Providing these features:
 * show list of products
@@ -32,3 +34,5 @@
 * deleting_products_by_admin
 * creating_users_by_admin
 * updating_users_by_admin
+
+
